@@ -6,3 +6,7 @@
 ```powershell
 (Get-HotFix | Sort-Object InstalledOn,HotFixID -Descending).HotFixID[0]
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
